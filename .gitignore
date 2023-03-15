@@ -1,5 +1,5 @@
 # Tokens and secrets
-.lib/security.dart
+security.dart
 
 # Miscellaneous
 *.class
