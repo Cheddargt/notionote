@@ -16,11 +16,11 @@ var NOTION_DATABASE_ID = "xxxxxxx";
 The guide will show you what to replace the "x" with. If the code seems confusing, that's because it is! I have no idea what I'm doing, but I want to see what can I do to fullfill my own organization needs.
 
 ## TO-DO's
-~~* Create a project using share intent's example~~
-~~* Include notion_api's example~~
-~~* Fix error regarding notion_api's example and the latest version~~
-~~* Integrate both share intent and notion_api's create page functionality~~
-~~* Sucessfully share a link to notionote and have it be inserted into a database~~
+* ~~Create a project using share intent's example~~
+* ~~Include notion_api's example~~
+* ~~Fix error regarding notion_api's example and the latest version~~
+* ~~Integrate both share intent and notion_api's create page functionality~~
+* ~~Sucessfully share a link to notionote and have it be inserted into a database~~
 * Add a specific property to a page and insert it into a database
 * Parse link to automatically fill the *platform* property of my database (Twitter, Instagram, etc)
 * Parse titles/descriptions to automatically fill the *title* field of a page
