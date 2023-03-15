@@ -1,3 +1,0 @@
-var NOTION_KEY = "secret_cttVHrpip0TtUkOPDkeZ1J35vZhJILUnzkDiXL8el62";
-var NOTION_DATABASE_ID = "64fc2ccc1c744a13a47d9b2360757973"; // Bookmarks
-// var NOTION_DATABASE_ID = "331090141b5245bb896bb1476f7934ed"; // Bookmarks
